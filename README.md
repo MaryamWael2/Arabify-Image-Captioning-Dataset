@@ -6,7 +6,7 @@
 
 ## 📦 Dataset Overview
 
-- **Total Images**: 2502
+- **Total Images**: 3502
 - **Captions per Image**: 2
 - **Language**: Modern Standard Arabic
 - **Format**: CSV + image folder
@@ -21,13 +21,13 @@ Arabify-Image-Captioning-Dataset/
 ├── images/
 │   ├── image1.jpg
 │   └── ...
-├── two_captions_df.csv
+├── FINAL_two_captions_df.csv
 └── README.md
 
 ````
 
-- `images/`: JPG images used in the dataset
-- `two_captions_df.csv`: Two captions per image
+- `images/`: Images used in the dataset
+- `FINAL_two_captions_df.csv`: Two captions per image
 
 ---
 
